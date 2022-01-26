@@ -1,0 +1,25 @@
+sample	name	description
+1A	Spring Water	Surface river
+1B	Spring Water	Surface river
+1C	Spring Water	Surface river
+2A	Cattle Farm	Surface river
+2B	Cattle Farm	Surface river
+2C	Cattle Farm	Surface river
+3A	Chicken Slaughterhouse	Surface river
+3B	Chicken Slaughterhouse	Surface river
+3C	Chicken Slaughterhouse	Surface river
+4A	Hospital	Surface river
+4B	Hospital	Surface river
+4C	Hospital	Surface river
+5A	City	Surface river
+5B	City	Surface river
+5C	City	Surface river
+6A	City Downstream	Surface river
+6B	City Downstream	Surface river
+6C	City Downstream	Surface river
+7A	Estuary-Freshwater	Surface river
+7B	Estuary-Freshwater	Surface river
+7C	Estuary-Freshwater	Surface river
+8A	Estuary-Seawater	Surface river
+8B	Estuary-Seawater	Surface river
+8C	Estuary-Seawater	Surface river

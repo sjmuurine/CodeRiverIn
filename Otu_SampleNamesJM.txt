@@ -1,0 +1,25 @@
+Old_name	Code	Notes	New_nameII	Sample	Seq_name
+1C-w1	Ctrl	Control (500 m from Spring Water)	1A	Spring Water	A007.1C.w1.CGTAATAG
+1C-w2	Ctrl	Control (500 m from Spring Water)	1B	Spring Water	A008.1C.w2.TCTAAGGA
+1C-w3	Ctrl	Control (500 m from Spring Water)	1C	Spring Water	A009.1C.w3.CGAACTTC
+2A-w1	Agri	Impacted by animal farms (Cattle farm)	2A	Cattle Farm	A010.2A.w1.TAGCACGC
+2A-w2	Agri	Impacted by animal farms (Cattle farm)	2B	Cattle Farm	A011.2A.w2.AGTCCGAA
+2A-w3	Agri	Impacted by animal farms (Cattle farm)	2C	Cattle Farm	A012.2A.w3.CATACTCT
+2B-w1	Agri	Impacted by animal farms (Chicken slaughterhouse)	3A	Chicken Slaughterhouse	A013.2B.w1.CGATACGC
+2B-w2	Agri	Impacted by animal farms (Chicken slaughterhouse)	3B	Chicken Slaughterhouse	A014.2B.w2.TGTTCTCG
+2B-w3	Agri	Impacted by animal farms (Chicken slaughterhouse)	3C	Chicken Slaughterhouse	A015.2B.w3.TTCCTCCG
+3A-w1	Urb	Impacted by urban activities (Hospital)	4A	Hospital	A019.3A.w1.GGTCCATT
+3A-w2	Urb	Impacted by urban activities (Hospital)	4B	Hospital	A020.3A.w2.CCAGTCAC
+3A-w3	Urb	Impacted by urban activities (Hospital)	4C	Hospital	A021.3A.w3.AGACGAAC
+3B-w1	Urb	Impacted by urban activities (City)	5A	City	A028.3B.w1.AGTTCCGC
+3B-w2	Urb	Impacted by urban activities (City)	5B	City	A029.3B.w2.CCGCCTAA
+3B-w3	Urb	Impacted by urban activities (City)	5C	City	A030.3B.w3.GTAAGCCT
+2C-w1	Urb	Impacted by urban activities (City downstream)	6A	City Downstream	A016.2C.w1.TCTCTATC
+2C-w2	Urb	Impacted by urban activities (City downstream)	6B	City Downstream	A017.2C.w2.CCTGTATG
+2C-w3	Urb	Impacted by urban activities (City downstream)	6C	City Downstream	A018.2C.w3.ATCCGACG
+4B-w1	Est	Estuary (river)	7A	Estuary-Freshwater	A034.4B.w1.AGTCAGTT
+4B-w2	Est	Estuary (river)	7B	Estuary-Freshwater	A035.4B.w2.TACATCTG
+4B-w3	Est	Estuary (river)	7C	Estuary-Freshwater	A036.4B.w3.GGTAGAAT
+4C-w1	Est	Estuary (seawater)	8A	Estuary-Seawater	A037.4C.w1.TCCACCTT
+4C-w2	Est	Estuary (seawater)	8B	Estuary-Seawater	A038.4C.w2.GAGGATAT
+4C-w3	Est	Estuary (seawater)	8C	Estuary-Seawater	A039.4C.w3.GAGATTGT
