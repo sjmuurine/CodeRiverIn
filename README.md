@@ -11,13 +11,13 @@ Pramono Hadi and Marko Virta about the antibiotic resistance and river health.
 Included files
 
 SmartChipTM Real-Time PCR (Takara Bio) results (7 files):
-  Ind1-2017.txt
-  Ind2-2017.txt
-  Ind3-2017.txt
-  Ind4-2017.txt
-  Ind5-2017.txt
-  Ind6-2017.txt
-  all_Ichips (Mean and sd calculted for each sample in R using text files above)
+  Ind1-2017.txt,
+  Ind2-2017.txt,
+  Ind3-2017.txt,
+  Ind4-2017.txt,
+  Ind5-2017.txt,
+  Ind6-2017.txt,
+  all_Ichips (Mean and sd calculted for each sample in R using text files)
 
 Metadata for ARGs and MGEs: Ind_metadata.txt
 
