@@ -10,11 +10,6 @@ Pramono Hadi and Marko Virta about the antibiotic resistance and river health.
 
 Included files
 
-
-Rarefied and subsampled OTU table (Phylo.tx.1.pick.1.subsample.shared_correctedID.txt)
-TSS normalized OTU table (Phylo.tx.1.pick.shared_correctedID.txt)
-Metadata for OTU tables (ZnCu_metadata.txt)
-Taxonomy data (Phylo.cons.taxonomy)
 SmartChipTM Real-Time PCR (Takara Bio) results (7 files):
   Ind1-2017.txt
   Ind2-2017.txt
@@ -23,7 +18,11 @@ SmartChipTM Real-Time PCR (Takara Bio) results (7 files):
   Ind5-2017.txt
   Ind6-2017.txt
   all_Ichips (Mean and sd calculted for each sample in R using text files above)
+
 Metadata for ARGs and MGEs: Ind_metadata.txt
+
 ARG and MGE annotation file: Ind_assays.txt
+
 16S rRNA gene sequencing results (OTU data table): otutable_indonesia.txt
+
 Script for data analysis in R that uses all the files above: IndonesiaF.R
